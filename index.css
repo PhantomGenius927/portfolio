@@ -1,1 +1,15 @@
-#button1 
+body{
+    background-color: rgba(100, 2, 100, 100);
+}
+
+#button1 {
+    background-color: blueviolet;
+}
+
+#button2 {
+    background-color: aqua;
+}
+
+#button3 {
+    background-color: gold;
+}
