@@ -6,10 +6,12 @@ const likeButton = document.getElementsByClassName("button1")
 */
 
 
-function startFunction {
+function startFunction () {
     likeButton.addEventListener('click', changeStyle)
 }
 
 function changeStyle() {
     subscribeButton.style.background = "black";
 }
+
+//description
